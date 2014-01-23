@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:4040b10c88dbdfcdef825d772aad6e4e$ -->
+<TextureAtlas imagePath="heartBeatsWithYou.png">
+    <SubTexture name="EnemyDown1" x="369" y="72" width="78" height="68"/>
+    <SubTexture name="EnemyDown2" x="242" y="18" width="78" height="68"/>
+    <SubTexture name="EnemyDown3" x="162" y="18" width="78" height="68"/>
+    <SubTexture name="EnemyUp1" x="82" y="18" width="78" height="68"/>
+    <SubTexture name="EnemyUp2" x="2" y="18" width="78" height="68"/>
+    <SubTexture name="EnemyUp3" x="371" y="2" width="78" height="68"/>
+    <SubTexture name="Heart1" x="223" y="210" width="39" height="34"/>
+    <SubTexture name="Heart2" x="191" y="346" width="39" height="34"/>
+    <SubTexture name="boy_jump1" x="61" y="327" width="57" height="102"/>
+    <SubTexture name="boy_jump2" x="2" y="327" width="57" height="102"/>
+    <SubTexture name="boy_running1" x="61" y="105" width="57" height="102"/>
+    <SubTexture name="boy_running2" x="2" y="105" width="57" height="102"/>
+    <SubTexture name="boy_running3" x="449" y="106" width="57" height="102"/>
+    <SubTexture name="boy_shoot" x="451" y="2" width="57" height="102"/>
+    <SubTexture name="girl_jump1" x="151" y="398" width="69" height="92"/>
+    <SubTexture name="girl_jump2" x="191" y="105" width="69" height="92"/>
+    <SubTexture name="girl_running1" x="152" y="210" width="69" height="92"/>
+    <SubTexture name="girl_running2" x="120" y="304" width="69" height="92"/>
+    <SubTexture name="girl_runnng3" x="120" y="105" width="69" height="92"/>
+    <SubTexture name="girl_shoot" x="81" y="210" width="69" height="92"/>
+    <SubTexture name="光球1" x="191" y="304" width="40" height="40"/>
+    <SubTexture name="光球2" x="262" y="130" width="40" height="40"/>
+    <SubTexture name="光球3" x="304" y="105" width="40" height="40"/>
+    <SubTexture name="光球4" x="262" y="88" width="40" height="40"/>
+    <SubTexture name="女二" x="322" y="18" width="45" height="85"/>
+    <SubTexture name="槽1 副本" x="2" y="431" width="31" height="63"/>
+    <SubTexture name="槽2 副本" x="106" y="431" width="43" height="57"/>
+    <SubTexture name="槽3 副本" x="2" y="2" width="367" height="14"/>
+    <SubTexture name="电话" x="35" y="431" width="69" height="57"/>
+    <SubTexture name="男二" x="2" y="210" width="77" height="115"/>
+</TextureAtlas>

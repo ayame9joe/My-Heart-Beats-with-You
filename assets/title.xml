@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:bdc031e4673ec5e9a11bdca10d83a1e6$ -->
+<TextureAtlas imagePath="title.png">
+    <SubTexture name="字0002" x="1670" y="2" width="276" height="231"/>
+    <SubTexture name="字0003" x="1392" y="235" width="276" height="231"/>
+    <SubTexture name="字0004" x="1392" y="2" width="276" height="231"/>
+    <SubTexture name="字0005" x="1114" y="235" width="276" height="231"/>
+    <SubTexture name="字0006" x="1114" y="2" width="276" height="231"/>
+    <SubTexture name="字0007" x="836" y="235" width="276" height="231"/>
+    <SubTexture name="字0008" x="836" y="2" width="276" height="231"/>
+    <SubTexture name="字0009" x="558" y="235" width="276" height="231"/>
+    <SubTexture name="字0010" x="558" y="2" width="276" height="231"/>
+    <SubTexture name="字0011" x="280" y="235" width="276" height="231"/>
+    <SubTexture name="字0016" x="280" y="2" width="276" height="231"/>
+    <SubTexture name="字0017" x="2" y="235" width="276" height="231"/>
+    <SubTexture name="字0018" x="2" y="2" width="276" height="231"/>
+    <SubTexture name="字0019" x="1670" y="235" width="275" height="230"/>
+</TextureAtlas>
